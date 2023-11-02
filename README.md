@@ -8,4 +8,5 @@ Steps in the project
 - Other model tests: stacking regressor, feature importance, feature selection and extraction (PCA LDA KPCA)
 
 Method of evaluation: RMSE
-Gradient Boosted did the best on this dataset.
+
+Gradient Boosted model did the best on this dataset to predict car prices.
